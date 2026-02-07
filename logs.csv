@@ -1,0 +1,8 @@
+date,level,message
+2025-01-01,INFO,system start
+2025-01-01,ERROR,file not found
+2025-01-01,INFO,user login
+2025-01-02,WARN,low memory
+2025-01-02,ERROR,timeout
+2025-01-02,ERROR,file not found
+2025-01-03,INFO,user logout
